@@ -1,5 +1,0 @@
-289db8a96e7d154726e069e61440f5d72f7a8300738bad415c5f74c6cc20b839  dirTree_v0.0.0-next_Linux_i386.tar.gz
-2b34ed10ba532dcd9183b4c38d0272035be657ba4d5f3bbc41141cedf49761b4  dirTree_v0.0.0-next_Windows_x86_64.tar.gz
-a0bc6912ebca70cab0aec7ef7d01f1a01418c63dd9ead73a0f84c70fae56bb57  dirTree_v0.0.0-next_Darwin_x86_64.tar.gz
-a669ac1980f18abb3ee18bf3e6ea58247704e18ca88f1cfc39e33708657e9890  dirTree_v0.0.0-next_Linux_x86_64.tar.gz
-e3e14859c0dc3e1abf24c50bde6ff05ffd8ad122bf512d6a953544e822df641a  dirTree_v0.0.0-next_Windows_i386.tar.gz
