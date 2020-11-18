@@ -26,6 +26,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -63,6 +64,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="527" y="353" key="Github.CreateGistDialog" timestamp="1605684568967">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="527" y="353" key="Github.CreateGistDialog/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605684568967" />
     <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1605679383130">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
@@ -83,5 +88,13 @@
     </state>
     <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605679383130" />
     <state width="1398" height="208" key="GridCell.Tab.0.right/0.23.1440.811/-190.-1057.1920.1057@0.23.1440.811" timestamp="1605583431341" />
+    <state x="222" y="66" key="SettingsEditor" timestamp="1605684787942">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="222" y="66" key="SettingsEditor/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605684787942" />
+    <state x="101" y="123" width="1240" height="608" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605684788237">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="101" y="123" width="1240" height="608" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605684788237" />
   </component>
 </project>
