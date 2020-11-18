@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="63df2d41-7d14-4989-b6fd-a59f2d83ad49" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.go" beforeDir="false" afterPath="$PROJECT_DIR$/app.go" afterDir="false" />
-    </list>
+    <list default="true" id="63df2d41-7d14-4989-b6fd-a59f2d83ad49" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +95,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="优化创建的excel文件的文件名" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化创建的excel文件的文件名" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="447" y="236" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605689617536">
       <screen x="0" y="23" width="1440" height="808" />
@@ -107,25 +108,25 @@
       <screen x="0" y="23" width="1440" height="808" />
     </state>
     <state x="527" y="353" key="Github.CreateGistDialog/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605684568967" />
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1605693043621">
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom" timestamp="1605693575052">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605693043621" />
+    <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605693575052" />
     <state width="1398" height="207" key="GridCell.Tab.0.bottom/0.23.1440.811/-190.-1057.1920.1057@0.23.1440.811" timestamp="1605687179146" />
-    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1605693043620">
+    <state width="1398" height="207" key="GridCell.Tab.0.center" timestamp="1605693575049">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605693043620" />
+    <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605693575049" />
     <state width="1398" height="207" key="GridCell.Tab.0.center/0.23.1440.811/-190.-1057.1920.1057@0.23.1440.811" timestamp="1605687179145" />
-    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1605693043620">
+    <state width="1398" height="207" key="GridCell.Tab.0.left" timestamp="1605693575048">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605693043620" />
+    <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605693575048" />
     <state width="1398" height="207" key="GridCell.Tab.0.left/0.23.1440.811/-190.-1057.1920.1057@0.23.1440.811" timestamp="1605687179144" />
-    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1605693043621">
+    <state width="1398" height="207" key="GridCell.Tab.0.right" timestamp="1605693575051">
       <screen x="0" y="23" width="1440" height="808" />
     </state>
-    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605693043621" />
+    <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.808/-190.-1057.1920.1057@0.23.1440.808" timestamp="1605693575051" />
     <state width="1398" height="207" key="GridCell.Tab.0.right/0.23.1440.811/-190.-1057.1920.1057@0.23.1440.811" timestamp="1605687179145" />
     <state width="1398" height="339" key="GridCell.Tab.1.bottom" timestamp="1605692424967">
       <screen x="0" y="23" width="1440" height="808" />
@@ -166,7 +167,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/app.go</url>
-          <line>47</line>
+          <line>46</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
@@ -181,18 +182,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/app.go</url>
-          <line>50</line>
+          <line>47</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/app.go</url>
           <line>48</line>
           <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/app.go</url>
-          <line>51</line>
-          <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
           <url>file://$PROJECT_DIR$/app.go</url>
